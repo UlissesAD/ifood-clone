@@ -9,8 +9,21 @@
 </p>
 
 ## Observações
-<p>Este projeto foi baseado nesse repositório (https://linkedin.com/in/pablohev)v</p>
 <p>Testado em Android</p>
 <p>Para testar esse projeto você precisa depois de clonar utilizar os comandos 
-npm install, para instalar a pasta node_modules e, npx expo start, para iniciar o projeto pelo expo podendo testar pelo navegador ou pelo celular através do QR Code.
+npm install, para instalar a pasta node_modules e, npx expo start, para iniciar o projeto pelo expo podendo testar pelo celular através do QR Code.
 </p>
+
+<p>projeto orientado pelo [Linkedin](https://linkedin.com/in/pablohev)</p>
+## EndPoints
+<p>Para consumir dados usamos uma api fake, usando os seguintes endpoints<p>
+
+| NOME         | ENDPOINT                                                                      |
+| ------------ | ----------------------------------------------------------------------------- |
+| GERAL        | http://my-json-server.typicode.com/pablohdev/app-ifood-clone/db               |
+| BANNERS      | http://my-json-server.typicode.com/pablohdev/app-ifood-clone/banner_principal |
+| CATEGORIAS   | http://my-json-server.typicode.com/pablohdev/app-ifood-clone/categorias       |
+| RESTAURANTES | http://my-json-server.typicode.com/pablohdev/app-ifood-clone/restaurantes     |
+
+<br>
+<br>
