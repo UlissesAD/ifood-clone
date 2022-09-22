@@ -11,3 +11,6 @@
 ## Observações
 <p>Este projeto foi baseado nesse repositório (https://linkedin.com/in/pablohev)v</p>
 <p>Testado em Android</p>
+<p>Para testar esse projeto você precisa depois de clonar utilizar os comandos 
+npm install, para instalar a pasta node_modules e, npx expo start, para iniciar o projeto pelo expo podendo testar pelo navegador ou pelo celular através do QR Code.
+</p>
