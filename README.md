@@ -25,6 +25,3 @@ npm install, para instalar a pasta node_modules e, npx expo start, para iniciar 
 | BANNERS      | http://my-json-server.typicode.com/pablohdev/app-ifood-clone/banner_principal |
 | CATEGORIAS   | http://my-json-server.typicode.com/pablohdev/app-ifood-clone/categorias       |
 | RESTAURANTES | http://my-json-server.typicode.com/pablohdev/app-ifood-clone/restaurantes     |
-
-<br>
-<br>
