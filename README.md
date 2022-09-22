@@ -16,7 +16,7 @@ npm install, para instalar a pasta node_modules e, npx expo start, para iniciar 
 
 <p>projeto orientado pelo [Linkedin](https://linkedin.com/in/pablohev)</p>
 
-# EndPoints
+## EndPoints
 <p>Para consumir dados usamos uma api fake, usando os seguintes endpoints<p>
 
 | NOME         | ENDPOINT                                                                      |
